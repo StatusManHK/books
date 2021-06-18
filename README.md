@@ -6,7 +6,7 @@ This is a collection of ebooks I found, probably about poltics or something. Thi
 
 Head to the appropiate directory and choose the file type
 
-``` 
+``` bash
 ebooks # collection of all ebooks
 select epub or pdf # determine desired file type
 download # download via github
