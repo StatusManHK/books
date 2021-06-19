@@ -28,10 +28,3 @@ Right to revolution
 [English: PDF](https://github.com/StatusManHK/books/raw/main/ebooks/pdf/Two%20Treasities%20of%20Government.pdf) <br>
 [Chinese: EPUB](https://github.com/StatusManHK/books/raw/main/ebooks/epub/%E7%B4%84%E7%BF%B0%C2%B7%E6%B4%9B%E5%85%8B%EF%BC%9A%E6%94%BF%E5%BA%9C%E8%AB%96.epub) <br>
 [Chinese: EPUB](https://github.com/StatusManHK/books/raw/main/ebooks/pdf/%E7%B4%84%E7%BF%B0%C2%B7%E6%B4%9B%E5%85%8B%EF%BC%9A%E6%94%BF%E5%BA%9C%E8%AB%96.pdf) <br>
-
-## Sources
-
-English EPUB: Guteneberg Project <br>
-English PDF: Global Grey Books <br>
-Chinese EPUB: 禁書網 <br>
-Chinese PDF: 禁書網 <br>
