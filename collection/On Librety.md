@@ -2,7 +2,7 @@
 
 ## Basic Information
 
-Type: Politics, liberalism <br>
+Type: politics, liberalism <br>
 Author: [John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill) [(約翰·密爾)](https://zh.wikipedia.org/zh-hk/%E7%BA%A6%E7%BF%B0%C2%B7%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9%C2%B7%E5%AF%86%E5%B0%94) <br>
 Publication date: 1859 <br>
 Related Links: <br>
