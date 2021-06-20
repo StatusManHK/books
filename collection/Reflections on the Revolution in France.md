@@ -17,7 +17,7 @@ Edmund Burke was a thinker, philosopher and author of the 18th century. He used 
 <br>
 This book is the masterpiece of this writer, formed by letters between the writer and other people. <br>
 <br>
-Not long after the storming of the Bastille in late 1789, a member of the French nobility asked Edmund Burke for his views towards the Revolution. Burke responded in a letter, which was subsequently published in 1790 and recevied widespread popularity. A few years later, a new version was published, with additional letters between Burke and others.
+Not long after the storming of the Bastille in late 1789, a member of the French nobility asked Edmund Burke for his views towards the Revolution. Burke responded in a letter, which was subsequently published in 1790 and recevied widespread popularity. A few years later, a new version was published, with additional letters between Burke and others. <br>
 <br>
 In the letters, the writer strongly criticised how the French Revolution entirely subverted tradition and entirely damaged social order. He also detailed the basic principles of modern conservatism. <br>
 <br>
