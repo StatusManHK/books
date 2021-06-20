@@ -2,7 +2,7 @@
 
 ## Basic Information
 
-Type: Politics, liberalism <br>
+Type: politics, liberalism <br>
 Author: [John Locke](https://en.wikipedia.org/wiki/John_Locke) [(約翰·洛克)](https://zh.wikipedia.org/zh-hk/%E7%BA%A6%E7%BF%B0%C2%B7%E6%B4%9B%E5%85%8B) <br>
 Publication date: 1689 <br>
 Related Links: <br>
