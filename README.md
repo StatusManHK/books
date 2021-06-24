@@ -1,13 +1,11 @@
 # Books
 
-This is a collection of ebooks I found, probably about poltics or something. This README is merely for my own reference btw.
+This is a collect of electronic reading material, likely involving politics.
 
 ## Usage
 
-Head to the appropiate directory and choose the file type
+Enter collections and click the desired book. Done.
 
-``` bash
-ebooks # collection of all ebooks
-select epub or pdf # determine desired file type
-download # download via github
-```
+## Sources
+
+All ebooks were sourced from Library Genesis, Gutenberg Project, Global Grey Books, and a forum/group that shall remain unnamed.
